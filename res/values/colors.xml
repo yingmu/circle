@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="outcolor">#ffffff</color>
+    <color name="innercolor">#3eb84b</color>
+    <color name="innercolor2">#ffffff</color>
+    <color name="outcolor2">#7fd7d9</color>
+</resources>

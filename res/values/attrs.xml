@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="hollow_circlr">
+        <attr name="outerStrokewidth" format="integer" />
+        <attr name="innerStrokewidth" format="integer" />
+        <attr name="innerColor" format="reference|color" />
+        <attr name="outerColor" format="reference|color" />
+        <attr name="isTitleCenter" format="boolean" />
+        <attr name="title" format="reference|string" />
+        <attr name="titleColor" format="string|reference|color" />
+        <attr name="titleSize" format="reference|integer" />
+        <attr name="subTitle" format="reference|string" />
+        <attr name="subTtitleColor" format="string|reference|color" />
+        <attr name="subTitleSize" format="reference|integer" />
+    </declare-styleable>
+
+</resources>
